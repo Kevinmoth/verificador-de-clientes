@@ -3,8 +3,8 @@ import asyncio
 import threading
 
 TOKEN = 'xxx'
-GUILD_ID = 988132554567745586
-ROLE_ID = 988132554618044503
+GUILD_ID = 988132554567745586 #ID del server 
+ROLE_ID = 988132554618044503 #ID del rol
 
 intents = discord.Intents.default()
 intents.members = True
@@ -21,7 +21,6 @@ async def on_ready():
 
 async def asignar_rol(discord_id):
     await bot_ready_event.wait()  
-    # tiempo de espera, solo en el host(en local perrea a lo loco)
 
     guild = client.get_guild(GUILD_ID)
     if not guild:
