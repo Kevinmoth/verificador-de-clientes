@@ -40,7 +40,7 @@ async def asignar_rol(discord_id):
         
         #Intento 9
     except Exception as e:
-        print(f'[BOT] Error asignando rol (No se que paso amigo, preguntale a gpt por el siguiente error): {e}')
+        print(f'[BOT] Error asignando rol (No se que paso amigo): {e}')
 
 _loop = None
 
