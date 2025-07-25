@@ -3,13 +3,12 @@
 
 ---
 
-Este repositorio contiene un **Backend** , construido con **Express.js**, y un **bot de Discord** que trabajan en conjunto. Su propósito principal es **escuchar solicitudes POST** para **asignar roles a usuarios** de forma automatizada. ¡Es una herramienta ideal para optimizar la gestión de tu comunidad!
-
+Este repositorio contiene un **Backend** , construido con **Express.js**, y un **bot de Discord** que trabajan en conjunto. Su propósito principal es **escuchar solicitudes POST** para **asignar roles a usuarios** de forma automatizada.
 ---
 
 ## 🚀 Integración y Uso
 
-Este sistema es perfecto para **integrarlo con sistemas externos** para clientes o usuarios verificados. Imagina, por ejemplo, conectar tu tienda online o tu plataforma de suscripciones para que tus usuarios reciban roles específicos en Discord tras una acción.
+Este sistema es perfecto para **integrarlo con sistemas externos** para clientes o usuarios verificados. conectar tu tienda online o tu plataforma de suscripciones para que tus usuarios reciban roles en Discord.
 
 ---
 
