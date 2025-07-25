@@ -3,8 +3,8 @@ import asyncio
 import threading
 
 TOKEN = 'xxx'
-GUILD_ID = 988132554567745586 #ID del server 
-ROLE_ID = 988132554618044503 #ID del rol
+GUILD_ID = 988132554567745586 #ID del server (DC)
+ROLE_ID = 988132554618044503 #ID del rol (DC)
 
 intents = discord.Intents.default()
 intents.members = True
